@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bc2a6fc-2509-47cd-9fc6-49d631a07a06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Analysis of algorithms/files/0_6DxkEUE5nFLrFFe4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Analysis of algorithms/files/1_9ucnO1Ymbl-qDhJFpgZ6Tw.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Analysis of algorithms/files/O.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Analysis of algorithms/files/Sequential-Search.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Analysis of algorithms/files/b-search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Analysis of algorithms/files/bePceUMnSG-binary_search_gif.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Analysis of algorithms/files/big o1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Analysis of algorithms/files/big o2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Analysis of algorithms/files/binary-search-small.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Analysis of algorithms/files/j.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Analysis of algorithms/linear_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Bubble-Sort.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Quick-Sort.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/e2-example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/is_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/subset_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/sum_even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/sum_of_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction/e1-example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Analysis of algorithms/binary_search.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2bwEhy9q2jMCbkn0guMRJfiIWBt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/algorithm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\algorithm\Analysis of algorithms\files" />
+      <recent name="C:\Users\User\Desktop\algorithm\Analysis of algorithms" />
+      <recent name="C:\Users\User\Desktop\algorithm" />
+      <recent name="C:\Users\User\Desktop\algorithm\introduction" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.subset_sum">
+    <configuration name="is_palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/is_palindrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="merge_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/merge_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="subset_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/subset_sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sum_even" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/sum_even.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.subset_sum" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.is_palindrome" />
+        <item itemvalue="Python.sum_even" />
+        <item itemvalue="Python.merge_sort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bc2a6fc-2509-47cd-9fc6-49d631a07a06" name="Changes" comment="" />
+      <created>1707117864001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707117864001</updated>
+      <workItem from="1707117865041" duration="413000" />
+      <workItem from="1707118280584" duration="3708000" />
+      <workItem from="1707140286334" duration="43000" />
+      <workItem from="1707158757489" duration="22000" />
+      <workItem from="1708700305126" duration="1881000" />
+      <workItem from="1708806018978" duration="17000" />
+      <workItem from="1723565709541" duration="1671000" />
+      <workItem from="1723622199462" duration="642000" />
+      <workItem from="1723634946928" duration="1258000" />
+      <workItem from="1723636247883" duration="1088000" />
+      <workItem from="1723656541112" duration="5062000" />
+      <workItem from="1723816689855" duration="75000" />
+      <workItem from="1723816773300" duration="341000" />
+      <workItem from="1724056215163" duration="18000" />
+      <workItem from="1724666055091" duration="675000" />
+      <workItem from="1724700457666" duration="12000" />
+      <workItem from="1732463394295" duration="3007000" />
+      <workItem from="1732895709489" duration="1978000" />
+      <workItem from="1733348446949" duration="51000" />
+      <workItem from="1738773375050" duration="3042000" />
+      <workItem from="1739181569721" duration="3360000" />
+      <workItem from="1743013012685" duration="696000" />
+      <workItem from="1743093643101" duration="1827000" />
+      <workItem from="1743174950522" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithm$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1732468947053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Analysis of algorithms" />
+    <SUITE FILE_PATH="coverage/algorithm$sum_of_numbers.coverage" NAME="sum_of_numbers Coverage Results" MODIFIED="1732468966766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
+    <SUITE FILE_PATH="coverage/algorithm$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1732896403862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
+    <SUITE FILE_PATH="coverage/algorithm$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1738774473721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
+    <SUITE FILE_PATH="coverage/algorithm$sum_even.coverage" NAME="sum_even Coverage Results" MODIFIED="1738776951361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
+    <SUITE FILE_PATH="coverage/algorithm$is_palindrome.coverage" NAME="is_palindrome Coverage Results" MODIFIED="1739194777433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
+    <SUITE FILE_PATH="coverage/algorithm$test.coverage" NAME="test Coverage Results" MODIFIED="1743013103243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$linear_search.coverage" NAME="linear_search Coverage Results" MODIFIED="1723568733769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Analysis of algorithms" />
+    <SUITE FILE_PATH="coverage/algorithm$e2_example.coverage" NAME="e2-example Coverage Results" MODIFIED="1723568665745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction" />
+    <SUITE FILE_PATH="coverage/algorithm$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1732897115725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
+    <SUITE FILE_PATH="coverage/algorithm$e1_example.coverage" NAME="e1-example Coverage Results" MODIFIED="1707121070699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction" />
+    <SUITE FILE_PATH="coverage/algorithm$subset_sum.coverage" NAME="subset_sum Coverage Results" MODIFIED="1743096397918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
+  </component>
+</project>
