@@ -10,7 +10,7 @@ def binary_search(array, target):
         else:
             right = mid - 1
     return -1
-
+#hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 
 target = 0
 array = [1, 3, 5, 7, 9, 11, 13]
